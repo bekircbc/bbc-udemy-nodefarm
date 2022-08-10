@@ -1,0 +1,8 @@
+@url = http://localhost:8001
+
+### GET ALL ITEMS 
+GET {{url}}/api
+### GET ITEMS 
+GET {{url}}/overview
+### GET ITEMS 
+GET {{url}}/product
