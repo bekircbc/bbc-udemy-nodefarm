@@ -4,5 +4,5 @@
 GET {{url}}/api
 ### GET ITEMS 
 GET {{url}}/overview
-### GET ITEMS 
-GET {{url}}/product
+# ### GET ITEMS 
+# GET {{url}}/product
